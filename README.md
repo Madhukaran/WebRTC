@@ -1,6 +1,9 @@
 # WebRTC
 Trying out the New WebRTC p2p networks.Learning What is WebRTC and How well we can Use that.
 
+# Checklists
+- [x] Check there is a connection stable on the iceconnction State
+
 # Server
 ```js
 const localConnection = new RTCPeerConnection()
