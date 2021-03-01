@@ -3,6 +3,8 @@ Trying out the New WebRTC p2p networks.Learning What is WebRTC and How well we c
 
 # Checklists
 - [x] Check there is a connection stable on the iceconnction State
+- [x] Create Datachannel,AddTracks or Do whatever you Spcifically want to share on the RTCPeerConnection() before Creating #Offer or #Answer
+- [x] Creating Offer of the Answer Will be the Final Stage (i.e,) Before Exchanging SDP
 
 # Server
 ```js
