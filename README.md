@@ -6,6 +6,7 @@ Trying out the New WebRTC p2p networks.Learning What is WebRTC and How well we c
 - [x] Create Datachannel,AddTracks or Do whatever you Spcifically want to share on the RTCPeerConnection() before Creating #Offer or #Answer
 - [x] Creating Offer of the Answer Will be the Final Stage (i.e,) Before Exchanging SDP
 - [x] for the Video Processing Use Offer-Pranswer-Answer Mechanism 
+- [x] IceTricleCandidate shold be True & connectionState should be connected
 
 # Server
 ```js
